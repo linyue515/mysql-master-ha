@@ -1,0 +1,1 @@
+[SkySQL](http://www.skysql.com/en/index) provides commercial support for MHA.
